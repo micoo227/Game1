@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jkrep/Documents/GitHub/Game1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/micha/OneDrive/Documents/Unreal Projects/OpenUpThePort/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/micha/OneDrive/Documents/Unreal Projects/OpenUpThePort/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
